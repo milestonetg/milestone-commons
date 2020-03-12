@@ -1,0 +1,978 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MilestoneTG
+  name: MilestoneTG
+  href: api/MilestoneTG.html
+  commentId: N:MilestoneTG
+  fullName: MilestoneTG
+  nameWithType: MilestoneTG
+- uid: MilestoneTG.ByteArrayExtensions
+  name: ByteArrayExtensions
+  href: api/MilestoneTG.ByteArrayExtensions.html
+  commentId: T:MilestoneTG.ByteArrayExtensions
+  fullName: MilestoneTG.ByteArrayExtensions
+  nameWithType: ByteArrayExtensions
+- uid: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[])
+  name: GetString(Byte[])
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_System_Byte___
+  commentId: M:MilestoneTG.ByteArrayExtensions.GetString(System.Byte[])
+  name.vb: GetString(Byte())
+  fullName: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[])
+  fullName.vb: MilestoneTG.ByteArrayExtensions.GetString(System.Byte())
+  nameWithType: ByteArrayExtensions.GetString(Byte[])
+  nameWithType.vb: ByteArrayExtensions.GetString(Byte())
+- uid: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],MilestoneTG.EncodingType)
+  name: GetString(Byte[], EncodingType)
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_System_Byte___MilestoneTG_EncodingType_
+  commentId: M:MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],MilestoneTG.EncodingType)
+  name.vb: GetString(Byte(), EncodingType)
+  fullName: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[], MilestoneTG.EncodingType)
+  fullName.vb: MilestoneTG.ByteArrayExtensions.GetString(System.Byte(), MilestoneTG.EncodingType)
+  nameWithType: ByteArrayExtensions.GetString(Byte[], EncodingType)
+  nameWithType.vb: ByteArrayExtensions.GetString(Byte(), EncodingType)
+- uid: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],System.Text.Encoding)
+  name: GetString(Byte[], Encoding)
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_System_Byte___System_Text_Encoding_
+  commentId: M:MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],System.Text.Encoding)
+  name.vb: GetString(Byte(), Encoding)
+  fullName: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[], System.Text.Encoding)
+  fullName.vb: MilestoneTG.ByteArrayExtensions.GetString(System.Byte(), System.Text.Encoding)
+  nameWithType: ByteArrayExtensions.GetString(Byte[], Encoding)
+  nameWithType.vb: ByteArrayExtensions.GetString(Byte(), Encoding)
+- uid: MilestoneTG.ByteArrayExtensions.GetString*
+  name: GetString
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_
+  commentId: Overload:MilestoneTG.ByteArrayExtensions.GetString
+  isSpec: "True"
+  fullName: MilestoneTG.ByteArrayExtensions.GetString
+  nameWithType: ByteArrayExtensions.GetString
+- uid: MilestoneTG.ByteArrayExtensions.GetUtf8String(System.Byte[])
+  name: GetUtf8String(Byte[])
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetUtf8String_System_Byte___
+  commentId: M:MilestoneTG.ByteArrayExtensions.GetUtf8String(System.Byte[])
+  name.vb: GetUtf8String(Byte())
+  fullName: MilestoneTG.ByteArrayExtensions.GetUtf8String(System.Byte[])
+  fullName.vb: MilestoneTG.ByteArrayExtensions.GetUtf8String(System.Byte())
+  nameWithType: ByteArrayExtensions.GetUtf8String(Byte[])
+  nameWithType.vb: ByteArrayExtensions.GetUtf8String(Byte())
+- uid: MilestoneTG.ByteArrayExtensions.GetUtf8String*
+  name: GetUtf8String
+  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetUtf8String_
+  commentId: Overload:MilestoneTG.ByteArrayExtensions.GetUtf8String
+  isSpec: "True"
+  fullName: MilestoneTG.ByteArrayExtensions.GetUtf8String
+  nameWithType: ByteArrayExtensions.GetUtf8String
+- uid: MilestoneTG.Data
+  name: MilestoneTG.Data
+  href: api/MilestoneTG.Data.html
+  commentId: N:MilestoneTG.Data
+  fullName: MilestoneTG.Data
+  nameWithType: MilestoneTG.Data
+- uid: MilestoneTG.Data.DataUtil
+  name: DataUtil
+  href: api/MilestoneTG.Data.DataUtil.html
+  commentId: T:MilestoneTG.Data.DataUtil
+  fullName: MilestoneTG.Data.DataUtil
+  nameWithType: DataUtil
+- uid: MilestoneTG.Data.DataUtil.Convert*
+  name: Convert
+  href: api/MilestoneTG.Data.DataUtil.html#MilestoneTG_Data_DataUtil_Convert_
+  commentId: Overload:MilestoneTG.Data.DataUtil.Convert
+  isSpec: "True"
+  fullName: MilestoneTG.Data.DataUtil.Convert
+  nameWithType: DataUtil.Convert
+- uid: MilestoneTG.Data.DataUtil.Convert``1(System.Object)
+  name: Convert<T>(Object)
+  href: api/MilestoneTG.Data.DataUtil.html#MilestoneTG_Data_DataUtil_Convert__1_System_Object_
+  commentId: M:MilestoneTG.Data.DataUtil.Convert``1(System.Object)
+  name.vb: Convert(Of T)(Object)
+  fullName: MilestoneTG.Data.DataUtil.Convert<T>(System.Object)
+  fullName.vb: MilestoneTG.Data.DataUtil.Convert(Of T)(System.Object)
+  nameWithType: DataUtil.Convert<T>(Object)
+  nameWithType.vb: DataUtil.Convert(Of T)(Object)
+- uid: MilestoneTG.Data.DataUtil.TryParseBool(System.String,System.Boolean@)
+  name: TryParseBool(String, out Boolean)
+  href: api/MilestoneTG.Data.DataUtil.html#MilestoneTG_Data_DataUtil_TryParseBool_System_String_System_Boolean__
+  commentId: M:MilestoneTG.Data.DataUtil.TryParseBool(System.String,System.Boolean@)
+  name.vb: TryParseBool(String, ByRef Boolean)
+  fullName: MilestoneTG.Data.DataUtil.TryParseBool(System.String, out System.Boolean)
+  fullName.vb: MilestoneTG.Data.DataUtil.TryParseBool(System.String, ByRef System.Boolean)
+  nameWithType: DataUtil.TryParseBool(String, out Boolean)
+  nameWithType.vb: DataUtil.TryParseBool(String, ByRef Boolean)
+- uid: MilestoneTG.Data.DataUtil.TryParseBool*
+  name: TryParseBool
+  href: api/MilestoneTG.Data.DataUtil.html#MilestoneTG_Data_DataUtil_TryParseBool_
+  commentId: Overload:MilestoneTG.Data.DataUtil.TryParseBool
+  isSpec: "True"
+  fullName: MilestoneTG.Data.DataUtil.TryParseBool
+  nameWithType: DataUtil.TryParseBool
+- uid: MilestoneTG.Data.IDataReaderExtensions
+  name: IDataReaderExtensions
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html
+  commentId: T:MilestoneTG.Data.IDataReaderExtensions
+  fullName: MilestoneTG.Data.IDataReaderExtensions
+  nameWithType: IDataReaderExtensions
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetBoolean(System.Data.IDataReader,System.String)
+  name: GetBoolean(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetBoolean_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetBoolean(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetBoolean(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetBoolean(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetBoolean*
+  name: GetBoolean
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetBoolean_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetBoolean
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetBoolean
+  nameWithType: IDataReaderExtensions.GetBoolean
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetByte(System.Data.IDataReader,System.String)
+  name: GetByte(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetByte_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetByte(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetByte(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetByte(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetByte*
+  name: GetByte
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetByte_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetByte
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetByte
+  nameWithType: IDataReaderExtensions.GetByte
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetBytes(System.Data.IDataReader,System.String,System.Int64,System.Byte[],System.Int32,System.Int32)
+  name: GetBytes(IDataReader, String, Int64, Byte[], Int32, Int32)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetBytes_System_Data_IDataReader_System_String_System_Int64_System_Byte___System_Int32_System_Int32_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetBytes(System.Data.IDataReader,System.String,System.Int64,System.Byte[],System.Int32,System.Int32)
+  name.vb: GetBytes(IDataReader, String, Int64, Byte(), Int32, Int32)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetBytes(System.Data.IDataReader, System.String, System.Int64, System.Byte[], System.Int32, System.Int32)
+  fullName.vb: MilestoneTG.Data.IDataReaderExtensions.GetBytes(System.Data.IDataReader, System.String, System.Int64, System.Byte(), System.Int32, System.Int32)
+  nameWithType: IDataReaderExtensions.GetBytes(IDataReader, String, Int64, Byte[], Int32, Int32)
+  nameWithType.vb: IDataReaderExtensions.GetBytes(IDataReader, String, Int64, Byte(), Int32, Int32)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetBytes*
+  name: GetBytes
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetBytes_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetBytes
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetBytes
+  nameWithType: IDataReaderExtensions.GetBytes
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetChar(System.Data.IDataReader,System.String)
+  name: GetChar(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetChar_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetChar(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetChar(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetChar(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetChar*
+  name: GetChar
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetChar_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetChar
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetChar
+  nameWithType: IDataReaderExtensions.GetChar
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetChars(System.Data.IDataReader,System.String,System.Int64,System.Char[],System.Int32,System.Int32)
+  name: GetChars(IDataReader, String, Int64, Char[], Int32, Int32)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetChars_System_Data_IDataReader_System_String_System_Int64_System_Char___System_Int32_System_Int32_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetChars(System.Data.IDataReader,System.String,System.Int64,System.Char[],System.Int32,System.Int32)
+  name.vb: GetChars(IDataReader, String, Int64, Char(), Int32, Int32)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetChars(System.Data.IDataReader, System.String, System.Int64, System.Char[], System.Int32, System.Int32)
+  fullName.vb: MilestoneTG.Data.IDataReaderExtensions.GetChars(System.Data.IDataReader, System.String, System.Int64, System.Char(), System.Int32, System.Int32)
+  nameWithType: IDataReaderExtensions.GetChars(IDataReader, String, Int64, Char[], Int32, Int32)
+  nameWithType.vb: IDataReaderExtensions.GetChars(IDataReader, String, Int64, Char(), Int32, Int32)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetChars*
+  name: GetChars
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetChars_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetChars
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetChars
+  nameWithType: IDataReaderExtensions.GetChars
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetData(System.Data.IDataReader,System.String)
+  name: GetData(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetData_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetData(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetData(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetData(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetData*
+  name: GetData
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetData_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetData
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetData
+  nameWithType: IDataReaderExtensions.GetData
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName(System.Data.IDataReader,System.String)
+  name: GetDataTypeName(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDataTypeName_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetDataTypeName(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName*
+  name: GetDataTypeName
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDataTypeName_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDataTypeName
+  nameWithType: IDataReaderExtensions.GetDataTypeName
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDateTime(System.Data.IDataReader,System.String)
+  name: GetDateTime(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDateTime_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetDateTime(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDateTime(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetDateTime(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDateTime*
+  name: GetDateTime
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDateTime_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetDateTime
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDateTime
+  nameWithType: IDataReaderExtensions.GetDateTime
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDecimal(System.Data.IDataReader,System.String)
+  name: GetDecimal(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDecimal_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetDecimal(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDecimal(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetDecimal(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDecimal*
+  name: GetDecimal
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDecimal_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetDecimal
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDecimal
+  nameWithType: IDataReaderExtensions.GetDecimal
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDouble(System.Data.IDataReader,System.String)
+  name: GetDouble(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDouble_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetDouble(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDouble(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetDouble(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetDouble*
+  name: GetDouble
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetDouble_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetDouble
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetDouble
+  nameWithType: IDataReaderExtensions.GetDouble
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetFieldType(System.Data.IDataReader,System.String)
+  name: GetFieldType(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetFieldType_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetFieldType(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetFieldType(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetFieldType(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetFieldType*
+  name: GetFieldType
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetFieldType_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetFieldType
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetFieldType
+  nameWithType: IDataReaderExtensions.GetFieldType
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetFloat(System.Data.IDataReader,System.String)
+  name: GetFloat(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetFloat_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetFloat(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetFloat(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetFloat(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetFloat*
+  name: GetFloat
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetFloat_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetFloat
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetFloat
+  nameWithType: IDataReaderExtensions.GetFloat
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetGuid(System.Data.IDataReader,System.String)
+  name: GetGuid(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetGuid_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetGuid(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetGuid(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetGuid(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetGuid*
+  name: GetGuid
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetGuid_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetGuid
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetGuid
+  nameWithType: IDataReaderExtensions.GetGuid
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt16(System.Data.IDataReader,System.String)
+  name: GetInt16(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt16_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetInt16(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt16(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetInt16(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt16*
+  name: GetInt16
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt16_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetInt16
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt16
+  nameWithType: IDataReaderExtensions.GetInt16
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt32(System.Data.IDataReader,System.String)
+  name: GetInt32(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt32_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetInt32(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt32(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetInt32(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt32*
+  name: GetInt32
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt32_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetInt32
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt32
+  nameWithType: IDataReaderExtensions.GetInt32
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt64(System.Data.IDataReader,System.String)
+  name: GetInt64(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt64_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetInt64(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt64(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetInt64(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetInt64*
+  name: GetInt64
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetInt64_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetInt64
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetInt64
+  nameWithType: IDataReaderExtensions.GetInt64
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetString(System.Data.IDataReader,System.String)
+  name: GetString(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetString_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetString(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetString(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetString(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetString*
+  name: GetString
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetString_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetString
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetString
+  nameWithType: IDataReaderExtensions.GetString
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetValue*
+  name: GetValue
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetValue_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.GetValue
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetValue
+  nameWithType: IDataReaderExtensions.GetValue
+- uid: MilestoneTG.Data.IDataReaderExtensions.GetValue``1(System.Data.IDataReader,System.String)
+  name: GetValue<T>(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_GetValue__1_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.GetValue``1(System.Data.IDataReader,System.String)
+  name.vb: GetValue(Of T)(IDataReader, String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.GetValue<T>(System.Data.IDataReader, System.String)
+  fullName.vb: MilestoneTG.Data.IDataReaderExtensions.GetValue(Of T)(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.GetValue<T>(IDataReader, String)
+  nameWithType.vb: IDataReaderExtensions.GetValue(Of T)(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.IsDBNull(System.Data.IDataReader,System.String)
+  name: IsDBNull(IDataReader, String)
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_IsDBNull_System_Data_IDataReader_System_String_
+  commentId: M:MilestoneTG.Data.IDataReaderExtensions.IsDBNull(System.Data.IDataReader,System.String)
+  fullName: MilestoneTG.Data.IDataReaderExtensions.IsDBNull(System.Data.IDataReader, System.String)
+  nameWithType: IDataReaderExtensions.IsDBNull(IDataReader, String)
+- uid: MilestoneTG.Data.IDataReaderExtensions.IsDBNull*
+  name: IsDBNull
+  href: api/MilestoneTG.Data.IDataReaderExtensions.html#MilestoneTG_Data_IDataReaderExtensions_IsDBNull_
+  commentId: Overload:MilestoneTG.Data.IDataReaderExtensions.IsDBNull
+  isSpec: "True"
+  fullName: MilestoneTG.Data.IDataReaderExtensions.IsDBNull
+  nameWithType: IDataReaderExtensions.IsDBNull
+- uid: MilestoneTG.DateAndTimeSpanExtentions
+  name: DateAndTimeSpanExtentions
+  href: api/MilestoneTG.DateAndTimeSpanExtentions.html
+  commentId: T:MilestoneTG.DateAndTimeSpanExtentions
+  fullName: MilestoneTG.DateAndTimeSpanExtentions
+  nameWithType: DateAndTimeSpanExtentions
+- uid: MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis(System.DateTime)
+  name: GetCurrentTimeMillis(DateTime)
+  href: api/MilestoneTG.DateAndTimeSpanExtentions.html#MilestoneTG_DateAndTimeSpanExtentions_GetCurrentTimeMillis_System_DateTime_
+  commentId: M:MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis(System.DateTime)
+  fullName: MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis(System.DateTime)
+  nameWithType: DateAndTimeSpanExtentions.GetCurrentTimeMillis(DateTime)
+- uid: MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis*
+  name: GetCurrentTimeMillis
+  href: api/MilestoneTG.DateAndTimeSpanExtentions.html#MilestoneTG_DateAndTimeSpanExtentions_GetCurrentTimeMillis_
+  commentId: Overload:MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis
+  isSpec: "True"
+  fullName: MilestoneTG.DateAndTimeSpanExtentions.GetCurrentTimeMillis
+  nameWithType: DateAndTimeSpanExtentions.GetCurrentTimeMillis
+- uid: MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds(System.TimeSpan)
+  name: GetTotalNanoseconds(TimeSpan)
+  href: api/MilestoneTG.DateAndTimeSpanExtentions.html#MilestoneTG_DateAndTimeSpanExtentions_GetTotalNanoseconds_System_TimeSpan_
+  commentId: M:MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds(System.TimeSpan)
+  fullName: MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds(System.TimeSpan)
+  nameWithType: DateAndTimeSpanExtentions.GetTotalNanoseconds(TimeSpan)
+- uid: MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds*
+  name: GetTotalNanoseconds
+  href: api/MilestoneTG.DateAndTimeSpanExtentions.html#MilestoneTG_DateAndTimeSpanExtentions_GetTotalNanoseconds_
+  commentId: Overload:MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds
+  isSpec: "True"
+  fullName: MilestoneTG.DateAndTimeSpanExtentions.GetTotalNanoseconds
+  nameWithType: DateAndTimeSpanExtentions.GetTotalNanoseconds
+- uid: MilestoneTG.DefaultCurrentDateTime
+  name: DefaultCurrentDateTime
+  href: api/MilestoneTG.DefaultCurrentDateTime.html
+  commentId: T:MilestoneTG.DefaultCurrentDateTime
+  fullName: MilestoneTG.DefaultCurrentDateTime
+  nameWithType: DefaultCurrentDateTime
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  name: GetCurrentDateTimeOffsetForTimezone(String)
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentDateTimeOffsetForTimezone_System_String_
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  nameWithType: DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(String)
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  name: GetCurrentDateTimeOffsetForTimezone(TimeZoneInfo)
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentDateTimeOffsetForTimezone_System_TimeZoneInfo_
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  nameWithType: DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone(TimeZoneInfo)
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone*
+  name: GetCurrentDateTimeOffsetForTimezone
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentDateTimeOffsetForTimezone_
+  commentId: Overload:MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+  isSpec: "True"
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+  nameWithType: DefaultCurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime
+  name: GetCurrentLocalDateTime()
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentLocalDateTime
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime()
+  nameWithType: DefaultCurrentDateTime.GetCurrentLocalDateTime()
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime*
+  name: GetCurrentLocalDateTime
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentLocalDateTime_
+  commentId: Overload:MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime
+  isSpec: "True"
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTime
+  nameWithType: DefaultCurrentDateTime.GetCurrentLocalDateTime
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset
+  name: GetCurrentLocalDateTimeOffset()
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentLocalDateTimeOffset
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset()
+  nameWithType: DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset()
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset*
+  name: GetCurrentLocalDateTimeOffset
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentLocalDateTimeOffset_
+  commentId: Overload:MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset
+  isSpec: "True"
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset
+  nameWithType: DefaultCurrentDateTime.GetCurrentLocalDateTimeOffset
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime
+  name: GetCurrentUtcDateTime()
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentUtcDateTime
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime()
+  nameWithType: DefaultCurrentDateTime.GetCurrentUtcDateTime()
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime*
+  name: GetCurrentUtcDateTime
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentUtcDateTime_
+  commentId: Overload:MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime
+  isSpec: "True"
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTime
+  nameWithType: DefaultCurrentDateTime.GetCurrentUtcDateTime
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
+  name: GetCurrentUtcDateTimeOffset()
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentUtcDateTimeOffset
+  commentId: M:MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset()
+  nameWithType: DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset()
+- uid: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset*
+  name: GetCurrentUtcDateTimeOffset
+  href: api/MilestoneTG.DefaultCurrentDateTime.html#MilestoneTG_DefaultCurrentDateTime_GetCurrentUtcDateTimeOffset_
+  commentId: Overload:MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
+  isSpec: "True"
+  fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
+  nameWithType: DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
+- uid: MilestoneTG.EncodingType
+  name: EncodingType
+  href: api/MilestoneTG.EncodingType.html
+  commentId: T:MilestoneTG.EncodingType
+  fullName: MilestoneTG.EncodingType
+  nameWithType: EncodingType
+- uid: MilestoneTG.EncodingType.ASCII
+  name: ASCII
+  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_ASCII
+  commentId: F:MilestoneTG.EncodingType.ASCII
+  fullName: MilestoneTG.EncodingType.ASCII
+  nameWithType: EncodingType.ASCII
+- uid: MilestoneTG.EncodingType.Unicode
+  name: Unicode
+  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_Unicode
+  commentId: F:MilestoneTG.EncodingType.Unicode
+  fullName: MilestoneTG.EncodingType.Unicode
+  nameWithType: EncodingType.Unicode
+- uid: MilestoneTG.EncodingType.UTF32
+  name: UTF32
+  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF32
+  commentId: F:MilestoneTG.EncodingType.UTF32
+  fullName: MilestoneTG.EncodingType.UTF32
+  nameWithType: EncodingType.UTF32
+- uid: MilestoneTG.EncodingType.UTF7
+  name: UTF7
+  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF7
+  commentId: F:MilestoneTG.EncodingType.UTF7
+  fullName: MilestoneTG.EncodingType.UTF7
+  nameWithType: EncodingType.UTF7
+- uid: MilestoneTG.EncodingType.UTF8
+  name: UTF8
+  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF8
+  commentId: F:MilestoneTG.EncodingType.UTF8
+  fullName: MilestoneTG.EncodingType.UTF8
+  nameWithType: EncodingType.UTF8
+- uid: MilestoneTG.ICurrentDateTime
+  name: ICurrentDateTime
+  href: api/MilestoneTG.ICurrentDateTime.html
+  commentId: T:MilestoneTG.ICurrentDateTime
+  fullName: MilestoneTG.ICurrentDateTime
+  nameWithType: ICurrentDateTime
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  name: GetCurrentDateTimeOffsetForTimezone(String)
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentDateTimeOffsetForTimezone_System_String_
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.String)
+  nameWithType: ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(String)
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  name: GetCurrentDateTimeOffsetForTimezone(TimeZoneInfo)
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentDateTimeOffsetForTimezone_System_TimeZoneInfo_
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(System.TimeZoneInfo)
+  nameWithType: ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone(TimeZoneInfo)
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone*
+  name: GetCurrentDateTimeOffsetForTimezone
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentDateTimeOffsetForTimezone_
+  commentId: Overload:MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+  isSpec: "True"
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+  nameWithType: ICurrentDateTime.GetCurrentDateTimeOffsetForTimezone
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime
+  name: GetCurrentLocalDateTime()
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentLocalDateTime
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime()
+  nameWithType: ICurrentDateTime.GetCurrentLocalDateTime()
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime*
+  name: GetCurrentLocalDateTime
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentLocalDateTime_
+  commentId: Overload:MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime
+  isSpec: "True"
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTime
+  nameWithType: ICurrentDateTime.GetCurrentLocalDateTime
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset
+  name: GetCurrentLocalDateTimeOffset()
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentLocalDateTimeOffset
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset()
+  nameWithType: ICurrentDateTime.GetCurrentLocalDateTimeOffset()
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset*
+  name: GetCurrentLocalDateTimeOffset
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentLocalDateTimeOffset_
+  commentId: Overload:MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset
+  isSpec: "True"
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentLocalDateTimeOffset
+  nameWithType: ICurrentDateTime.GetCurrentLocalDateTimeOffset
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime
+  name: GetCurrentUtcDateTime()
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentUtcDateTime
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime()
+  nameWithType: ICurrentDateTime.GetCurrentUtcDateTime()
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime*
+  name: GetCurrentUtcDateTime
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentUtcDateTime_
+  commentId: Overload:MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime
+  isSpec: "True"
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTime
+  nameWithType: ICurrentDateTime.GetCurrentUtcDateTime
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset
+  name: GetCurrentUtcDateTimeOffset()
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentUtcDateTimeOffset
+  commentId: M:MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset()
+  nameWithType: ICurrentDateTime.GetCurrentUtcDateTimeOffset()
+- uid: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset*
+  name: GetCurrentUtcDateTimeOffset
+  href: api/MilestoneTG.ICurrentDateTime.html#MilestoneTG_ICurrentDateTime_GetCurrentUtcDateTimeOffset_
+  commentId: Overload:MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset
+  isSpec: "True"
+  fullName: MilestoneTG.ICurrentDateTime.GetCurrentUtcDateTimeOffset
+  nameWithType: ICurrentDateTime.GetCurrentUtcDateTimeOffset
+- uid: MilestoneTG.Linq
+  name: MilestoneTG.Linq
+  href: api/MilestoneTG.Linq.html
+  commentId: N:MilestoneTG.Linq
+  fullName: MilestoneTG.Linq
+  nameWithType: MilestoneTG.Linq
+- uid: MilestoneTG.Linq.IEnumerableExtensions
+  name: IEnumerableExtensions
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html
+  commentId: T:MilestoneTG.Linq.IEnumerableExtensions
+  fullName: MilestoneTG.Linq.IEnumerableExtensions
+  nameWithType: IEnumerableExtensions
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Decimal})
+  name: StdDev(IEnumerable<Decimal>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_System_Collections_Generic_IEnumerable_System_Decimal__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Decimal})
+  name.vb: StdDev(IEnumerable(Of Decimal))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable<System.Decimal>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable(Of System.Decimal))
+  nameWithType: IEnumerableExtensions.StdDev(IEnumerable<Decimal>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(IEnumerable(Of Decimal))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Double})
+  name: StdDev(IEnumerable<Double>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: StdDev(IEnumerable(Of Double))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: IEnumerableExtensions.StdDev(IEnumerable<Double>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(IEnumerable(Of Double))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Int32})
+  name: StdDev(IEnumerable<Int32>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_System_Collections_Generic_IEnumerable_System_Int32__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Int32})
+  name.vb: StdDev(IEnumerable(Of Int32))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable<System.Int32>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable(Of System.Int32))
+  nameWithType: IEnumerableExtensions.StdDev(IEnumerable<Int32>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(IEnumerable(Of Int32))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Int64})
+  name: StdDev(IEnumerable<Int64>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_System_Collections_Generic_IEnumerable_System_Int64__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Int64})
+  name.vb: StdDev(IEnumerable(Of Int64))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable<System.Int64>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable(Of System.Int64))
+  nameWithType: IEnumerableExtensions.StdDev(IEnumerable<Int64>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(IEnumerable(Of Int64))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Single})
+  name: StdDev(IEnumerable<Single>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_System_Collections_Generic_IEnumerable_System_Single__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable{System.Single})
+  name.vb: StdDev(IEnumerable(Of Single))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable<System.Single>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(System.Collections.Generic.IEnumerable(Of System.Single))
+  nameWithType: IEnumerableExtensions.StdDev(IEnumerable<Single>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(IEnumerable(Of Single))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev*
+  name: StdDev
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev_
+  commentId: Overload:MilestoneTG.Linq.IEnumerableExtensions.StdDev
+  isSpec: "True"
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev
+  nameWithType: IEnumerableExtensions.StdDev
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Decimal})
+  name: StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Decimal>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Decimal__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Decimal})
+  name.vb: StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Decimal))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Decimal>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Decimal))
+  nameWithType: IEnumerableExtensions.StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Decimal>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Decimal))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Double})
+  name: StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Double>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Double__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Double})
+  name.vb: StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Double))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Double>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Double))
+  nameWithType: IEnumerableExtensions.StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Double>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Double))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32})
+  name: StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Int32>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int32__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32})
+  name.vb: StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int32))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Int32>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Int32))
+  nameWithType: IEnumerableExtensions.StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Int32>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int32))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int64})
+  name: StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Int64>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int64__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int64})
+  name.vb: StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int64))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Int64>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Int64))
+  nameWithType: IEnumerableExtensions.StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Int64>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int64))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Single})
+  name: StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Single>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_StdDev__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Single__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Single})
+  name.vb: StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Single))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.StdDev<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Single>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.StdDev(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Single))
+  nameWithType: IEnumerableExtensions.StdDev<TSource>(IEnumerable<TSource>, Func<TSource, Single>)
+  nameWithType.vb: IEnumerableExtensions.StdDev(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Single))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Decimal})
+  name: Variance(IEnumerable<Decimal>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_System_Collections_Generic_IEnumerable_System_Decimal__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Decimal})
+  name.vb: Variance(IEnumerable(Of Decimal))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable<System.Decimal>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable(Of System.Decimal))
+  nameWithType: IEnumerableExtensions.Variance(IEnumerable<Decimal>)
+  nameWithType.vb: IEnumerableExtensions.Variance(IEnumerable(Of Decimal))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Double})
+  name: Variance(IEnumerable<Double>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: Variance(IEnumerable(Of Double))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: IEnumerableExtensions.Variance(IEnumerable<Double>)
+  nameWithType.vb: IEnumerableExtensions.Variance(IEnumerable(Of Double))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Int32})
+  name: Variance(IEnumerable<Int32>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_System_Collections_Generic_IEnumerable_System_Int32__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Int32})
+  name.vb: Variance(IEnumerable(Of Int32))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable<System.Int32>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable(Of System.Int32))
+  nameWithType: IEnumerableExtensions.Variance(IEnumerable<Int32>)
+  nameWithType.vb: IEnumerableExtensions.Variance(IEnumerable(Of Int32))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Int64})
+  name: Variance(IEnumerable<Int64>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_System_Collections_Generic_IEnumerable_System_Int64__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Int64})
+  name.vb: Variance(IEnumerable(Of Int64))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable<System.Int64>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable(Of System.Int64))
+  nameWithType: IEnumerableExtensions.Variance(IEnumerable<Int64>)
+  nameWithType.vb: IEnumerableExtensions.Variance(IEnumerable(Of Int64))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Single})
+  name: Variance(IEnumerable<Single>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_System_Collections_Generic_IEnumerable_System_Single__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable{System.Single})
+  name.vb: Variance(IEnumerable(Of Single))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable<System.Single>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(System.Collections.Generic.IEnumerable(Of System.Single))
+  nameWithType: IEnumerableExtensions.Variance(IEnumerable<Single>)
+  nameWithType.vb: IEnumerableExtensions.Variance(IEnumerable(Of Single))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance*
+  name: Variance
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance_
+  commentId: Overload:MilestoneTG.Linq.IEnumerableExtensions.Variance
+  isSpec: "True"
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance
+  nameWithType: IEnumerableExtensions.Variance
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Decimal})
+  name: Variance<TSource>(IEnumerable<TSource>, Func<TSource, Decimal>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Decimal__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Decimal})
+  name.vb: Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Decimal))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Decimal>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Decimal))
+  nameWithType: IEnumerableExtensions.Variance<TSource>(IEnumerable<TSource>, Func<TSource, Decimal>)
+  nameWithType.vb: IEnumerableExtensions.Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Decimal))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Double})
+  name: Variance<TSource>(IEnumerable<TSource>, Func<TSource, Double>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Double__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Double})
+  name.vb: Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Double))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Double>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Double))
+  nameWithType: IEnumerableExtensions.Variance<TSource>(IEnumerable<TSource>, Func<TSource, Double>)
+  nameWithType.vb: IEnumerableExtensions.Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Double))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32})
+  name: Variance<TSource>(IEnumerable<TSource>, Func<TSource, Int32>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int32__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int32})
+  name.vb: Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int32))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Int32>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Int32))
+  nameWithType: IEnumerableExtensions.Variance<TSource>(IEnumerable<TSource>, Func<TSource, Int32>)
+  nameWithType.vb: IEnumerableExtensions.Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int32))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int64})
+  name: Variance<TSource>(IEnumerable<TSource>, Func<TSource, Int64>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Int64__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Int64})
+  name.vb: Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int64))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Int64>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Int64))
+  nameWithType: IEnumerableExtensions.Variance<TSource>(IEnumerable<TSource>, Func<TSource, Int64>)
+  nameWithType.vb: IEnumerableExtensions.Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Int64))
+- uid: MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Single})
+  name: Variance<TSource>(IEnumerable<TSource>, Func<TSource, Single>)
+  href: api/MilestoneTG.Linq.IEnumerableExtensions.html#MilestoneTG_Linq_IEnumerableExtensions_Variance__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Single__
+  commentId: M:MilestoneTG.Linq.IEnumerableExtensions.Variance``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Single})
+  name.vb: Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Single))
+  fullName: MilestoneTG.Linq.IEnumerableExtensions.Variance<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Single>)
+  fullName.vb: MilestoneTG.Linq.IEnumerableExtensions.Variance(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Single))
+  nameWithType: IEnumerableExtensions.Variance<TSource>(IEnumerable<TSource>, Func<TSource, Single>)
+  nameWithType.vb: IEnumerableExtensions.Variance(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Single))
+- uid: MilestoneTG.Reflection
+  name: MilestoneTG.Reflection
+  href: api/MilestoneTG.Reflection.html
+  commentId: N:MilestoneTG.Reflection
+  fullName: MilestoneTG.Reflection
+  nameWithType: MilestoneTG.Reflection
+- uid: MilestoneTG.Reflection.ObjectExtensionMethods
+  name: ObjectExtensionMethods
+  href: api/MilestoneTG.Reflection.ObjectExtensionMethods.html
+  commentId: T:MilestoneTG.Reflection.ObjectExtensionMethods
+  fullName: MilestoneTG.Reflection.ObjectExtensionMethods
+  nameWithType: ObjectExtensionMethods
+- uid: MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue(System.Object,System.String)
+  name: GetPropertyValue(Object, String)
+  href: api/MilestoneTG.Reflection.ObjectExtensionMethods.html#MilestoneTG_Reflection_ObjectExtensionMethods_GetPropertyValue_System_Object_System_String_
+  commentId: M:MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue(System.Object,System.String)
+  fullName: MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue(System.Object, System.String)
+  nameWithType: ObjectExtensionMethods.GetPropertyValue(Object, String)
+- uid: MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue*
+  name: GetPropertyValue
+  href: api/MilestoneTG.Reflection.ObjectExtensionMethods.html#MilestoneTG_Reflection_ObjectExtensionMethods_GetPropertyValue_
+  commentId: Overload:MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue
+  isSpec: "True"
+  fullName: MilestoneTG.Reflection.ObjectExtensionMethods.GetPropertyValue
+  nameWithType: ObjectExtensionMethods.GetPropertyValue
+- uid: MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue(System.Object,System.String,System.Object)
+  name: SetPropertyValue(Object, String, Object)
+  href: api/MilestoneTG.Reflection.ObjectExtensionMethods.html#MilestoneTG_Reflection_ObjectExtensionMethods_SetPropertyValue_System_Object_System_String_System_Object_
+  commentId: M:MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue(System.Object,System.String,System.Object)
+  fullName: MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue(System.Object, System.String, System.Object)
+  nameWithType: ObjectExtensionMethods.SetPropertyValue(Object, String, Object)
+- uid: MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue*
+  name: SetPropertyValue
+  href: api/MilestoneTG.Reflection.ObjectExtensionMethods.html#MilestoneTG_Reflection_ObjectExtensionMethods_SetPropertyValue_
+  commentId: Overload:MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue
+  isSpec: "True"
+  fullName: MilestoneTG.Reflection.ObjectExtensionMethods.SetPropertyValue
+  nameWithType: ObjectExtensionMethods.SetPropertyValue
+- uid: MilestoneTG.StringExtensions
+  name: StringExtensions
+  href: api/MilestoneTG.StringExtensions.html
+  commentId: T:MilestoneTG.StringExtensions
+  fullName: MilestoneTG.StringExtensions
+  nameWithType: StringExtensions
+- uid: MilestoneTG.StringExtensions.GetBytes(System.String)
+  name: GetBytes(String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetBytes_System_String_
+  commentId: M:MilestoneTG.StringExtensions.GetBytes(System.String)
+  fullName: MilestoneTG.StringExtensions.GetBytes(System.String)
+  nameWithType: StringExtensions.GetBytes(String)
+- uid: MilestoneTG.StringExtensions.GetBytes(System.String,MilestoneTG.EncodingType)
+  name: GetBytes(String, EncodingType)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetBytes_System_String_MilestoneTG_EncodingType_
+  commentId: M:MilestoneTG.StringExtensions.GetBytes(System.String,MilestoneTG.EncodingType)
+  fullName: MilestoneTG.StringExtensions.GetBytes(System.String, MilestoneTG.EncodingType)
+  nameWithType: StringExtensions.GetBytes(String, EncodingType)
+- uid: MilestoneTG.StringExtensions.GetBytes*
+  name: GetBytes
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetBytes_
+  commentId: Overload:MilestoneTG.StringExtensions.GetBytes
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.GetBytes
+  nameWithType: StringExtensions.GetBytes
+- uid: MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
+  name: GetEncoding(EncodingType)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetEncoding_MilestoneTG_EncodingType_
+  commentId: M:MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
+  fullName: MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
+  nameWithType: StringExtensions.GetEncoding(EncodingType)
+- uid: MilestoneTG.StringExtensions.GetEncoding*
+  name: GetEncoding
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetEncoding_
+  commentId: Overload:MilestoneTG.StringExtensions.GetEncoding
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.GetEncoding
+  nameWithType: StringExtensions.GetEncoding
+- uid: MilestoneTG.StringExtensions.GetUtf8Bytes(System.String)
+  name: GetUtf8Bytes(String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetUtf8Bytes_System_String_
+  commentId: M:MilestoneTG.StringExtensions.GetUtf8Bytes(System.String)
+  fullName: MilestoneTG.StringExtensions.GetUtf8Bytes(System.String)
+  nameWithType: StringExtensions.GetUtf8Bytes(String)
+- uid: MilestoneTG.StringExtensions.GetUtf8Bytes*
+  name: GetUtf8Bytes
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetUtf8Bytes_
+  commentId: Overload:MilestoneTG.StringExtensions.GetUtf8Bytes
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.GetUtf8Bytes
+  nameWithType: StringExtensions.GetUtf8Bytes
+- uid: MilestoneTG.StringExtensions.IsUpperCase(System.String)
+  name: IsUpperCase(String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_IsUpperCase_System_String_
+  commentId: M:MilestoneTG.StringExtensions.IsUpperCase(System.String)
+  fullName: MilestoneTG.StringExtensions.IsUpperCase(System.String)
+  nameWithType: StringExtensions.IsUpperCase(String)
+- uid: MilestoneTG.StringExtensions.IsUpperCase*
+  name: IsUpperCase
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_IsUpperCase_
+  commentId: Overload:MilestoneTG.StringExtensions.IsUpperCase
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.IsUpperCase
+  nameWithType: StringExtensions.IsUpperCase
+- uid: MilestoneTG.StringExtensions.RemoveLast(System.String,System.String)
+  name: RemoveLast(String, String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_RemoveLast_System_String_System_String_
+  commentId: M:MilestoneTG.StringExtensions.RemoveLast(System.String,System.String)
+  fullName: MilestoneTG.StringExtensions.RemoveLast(System.String, System.String)
+  nameWithType: StringExtensions.RemoveLast(String, String)
+- uid: MilestoneTG.StringExtensions.RemoveLast*
+  name: RemoveLast
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_RemoveLast_
+  commentId: Overload:MilestoneTG.StringExtensions.RemoveLast
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.RemoveLast
+  nameWithType: StringExtensions.RemoveLast
+- uid: MilestoneTG.StringExtensions.ToSentenceCase(System.String)
+  name: ToSentenceCase(String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_ToSentenceCase_System_String_
+  commentId: M:MilestoneTG.StringExtensions.ToSentenceCase(System.String)
+  fullName: MilestoneTG.StringExtensions.ToSentenceCase(System.String)
+  nameWithType: StringExtensions.ToSentenceCase(String)
+- uid: MilestoneTG.StringExtensions.ToSentenceCase*
+  name: ToSentenceCase
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_ToSentenceCase_
+  commentId: Overload:MilestoneTG.StringExtensions.ToSentenceCase
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.ToSentenceCase
+  nameWithType: StringExtensions.ToSentenceCase
+- uid: MilestoneTG.StringExtensions.ToTitleCase(System.String)
+  name: ToTitleCase(String)
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_ToTitleCase_System_String_
+  commentId: M:MilestoneTG.StringExtensions.ToTitleCase(System.String)
+  fullName: MilestoneTG.StringExtensions.ToTitleCase(System.String)
+  nameWithType: StringExtensions.ToTitleCase(String)
+- uid: MilestoneTG.StringExtensions.ToTitleCase*
+  name: ToTitleCase
+  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_ToTitleCase_
+  commentId: Overload:MilestoneTG.StringExtensions.ToTitleCase
+  isSpec: "True"
+  fullName: MilestoneTG.StringExtensions.ToTitleCase
+  nameWithType: StringExtensions.ToTitleCase
+- uid: MilestoneTG.StringWriterUtf8
+  name: StringWriterUtf8
+  href: api/MilestoneTG.StringWriterUtf8.html
+  commentId: T:MilestoneTG.StringWriterUtf8
+  fullName: MilestoneTG.StringWriterUtf8
+  nameWithType: StringWriterUtf8
+- uid: MilestoneTG.StringWriterUtf8.#ctor
+  name: StringWriterUtf8()
+  href: api/MilestoneTG.StringWriterUtf8.html#MilestoneTG_StringWriterUtf8__ctor
+  commentId: M:MilestoneTG.StringWriterUtf8.#ctor
+  fullName: MilestoneTG.StringWriterUtf8.StringWriterUtf8()
+  nameWithType: StringWriterUtf8.StringWriterUtf8()
+- uid: MilestoneTG.StringWriterUtf8.#ctor(System.Text.StringBuilder)
+  name: StringWriterUtf8(StringBuilder)
+  href: api/MilestoneTG.StringWriterUtf8.html#MilestoneTG_StringWriterUtf8__ctor_System_Text_StringBuilder_
+  commentId: M:MilestoneTG.StringWriterUtf8.#ctor(System.Text.StringBuilder)
+  fullName: MilestoneTG.StringWriterUtf8.StringWriterUtf8(System.Text.StringBuilder)
+  nameWithType: StringWriterUtf8.StringWriterUtf8(StringBuilder)
+- uid: MilestoneTG.StringWriterUtf8.#ctor*
+  name: StringWriterUtf8
+  href: api/MilestoneTG.StringWriterUtf8.html#MilestoneTG_StringWriterUtf8__ctor_
+  commentId: Overload:MilestoneTG.StringWriterUtf8.#ctor
+  isSpec: "True"
+  fullName: MilestoneTG.StringWriterUtf8.StringWriterUtf8
+  nameWithType: StringWriterUtf8.StringWriterUtf8
+- uid: MilestoneTG.StringWriterUtf8.Encoding
+  name: Encoding
+  href: api/MilestoneTG.StringWriterUtf8.html#MilestoneTG_StringWriterUtf8_Encoding
+  commentId: P:MilestoneTG.StringWriterUtf8.Encoding
+  fullName: MilestoneTG.StringWriterUtf8.Encoding
+  nameWithType: StringWriterUtf8.Encoding
+- uid: MilestoneTG.StringWriterUtf8.Encoding*
+  name: Encoding
+  href: api/MilestoneTG.StringWriterUtf8.html#MilestoneTG_StringWriterUtf8_Encoding_
+  commentId: Overload:MilestoneTG.StringWriterUtf8.Encoding
+  isSpec: "True"
+  fullName: MilestoneTG.StringWriterUtf8.Encoding
+  nameWithType: StringWriterUtf8.Encoding

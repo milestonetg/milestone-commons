@@ -1,0 +1,19 @@
+.directory {
+    font-size: 16pt;
+}
+.navbar-inverse {
+    background-color: #015a84
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-size: 24pt;
+}
+
+.navbar-brand>img {
+    display: inline-block;
+}
+.navbar-brand>span {
+    display: inline-block;
+    vertical-align: middle;
+}

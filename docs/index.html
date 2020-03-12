@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Milestone Commons Library | Commons </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Milestone Commons Library | Commons ">
+    <meta name="generator" content="docfx 2.50.0.0">
+    
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="index.html">
+                <img id="logo" class="svg" src="images/logo.png" alt="Commons"> <span>Commons</span>
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="milestone-commons-library">Milestone Commons Library</h1>
+
+<p><a href="https://milestonetg.visualstudio.com/Milestone/_build/latest?definitionId=40&amp;branchName=master"><img src="https://milestonetg.visualstudio.com/Milestone/_apis/build/status/milestonetg.milestone-library?branchName=master" alt="Build Status"></a></p>
+<h2 id="mocking-datetime-in-unit-tests">Mocking DateTime in Unit Tests</h2>
+<p>One of the interfaces in commons is <code>ICurrentDateTime</code>. It's default implementation is <code>DefaultCurrentDateTime</code>.
+It is recommended that this interface and factory be used when accessing the systems's current date/time. This allows
+you to mock the date/time returned.</p>
+<pre><code class="lang-cs">public class MyService
+{
+    ICurrentDateTime datetimeFactory;
+    public MyService(ICurrentDateTime datetimeFactory)
+    {
+        this.datetimeFactory = datetimeFactory;
+    }
+
+    public void dowork()
+    {
+        Datetime now = datetimeFactory.GetCurrentUtcDateTime();
+        // do some work
+    }
+}
+</code></pre>
+<h2 id="platform-targets">Platform Targets</h2>
+<ul>
+<li>NetStandard2.0</li>
+<li>Net45</li>
+</ul>
+<h2 id="building-and-testing">Building and Testing</h2>
+<p>Building from source and running unit tests requires a Windows machine with:</p>
+<ul>
+<li>.Net Core 3.1 SDK</li>
+<li>.Net Framework 4.5.2 Developer Pack</li>
+</ul>
+<h2 id="issues">Issues</h2>
+<p>Issues are tracked on <a href="https://github.com/milestonetg/milestone-commons/issues">GitHub</a>. Anyone is welcome to file a bug,
+an enhancement request, or ask a general question. We ask that bug reports include:</p>
+<ol>
+<li>A detailed description of the problem</li>
+<li>Steps to reproduce</li>
+<li>Expected results</li>
+<li>Actual results</li>
+<li>Version of the package</li>
+<li>Version of the .Net runtime</li>
+</ol>
+<h2 id="contributing">Contributing</h2>
+<p>Contributions are welcome! Please open an issue first so that your proposed changes can be discussed.</p>
+<h2 id="license">License</h2>
+<p>Milestone Commons Library is licensed under the <a href="../LICENSE">MIT License</a>.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/milestonetg/milestone-commons/blob/master/docfx_project/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>

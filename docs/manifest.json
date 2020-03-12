@@ -1,0 +1,335 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/dev/milestone-commons/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.ByteArrayExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.ByteArrayExtensions.html",
+          "hash": "/mXEoAwPmC2pDx2O4RCYpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Data.DataUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Data.DataUtil.html",
+          "hash": "N2NEwXZIJ6zmkPrrd53hww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Data.IDataReaderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Data.IDataReaderExtensions.html",
+          "hash": "NJS1ApTF5Rr5Qlfsf0GZBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Data.html",
+          "hash": "zvo4gdu0wkYhW4A+oXdCEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.DateAndTimeSpanExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.DateAndTimeSpanExtentions.html",
+          "hash": "aFo+2MdWi6kF8y33M5GCqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.DefaultCurrentDateTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.DefaultCurrentDateTime.html",
+          "hash": "RU0KLijYrwdRdFQ0pXRZsQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.EncodingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.EncodingType.html",
+          "hash": "yTErK6e1fOCTKD0iQPfGfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.ICurrentDateTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.ICurrentDateTime.html",
+          "hash": "G/9xcxzZWegnQyPeXIG1Jw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Linq.IEnumerableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Linq.IEnumerableExtensions.html",
+          "hash": "n22+trsQ/adWIVQzjQHaLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Linq.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Linq.html",
+          "hash": "yB+wiDyxl86OpK70snQ6HQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Reflection.ObjectExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Reflection.ObjectExtensionMethods.html",
+          "hash": "gc3kOw5YXpUHpb8yMYiLgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Reflection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Reflection.html",
+          "hash": "EMyNS/o1XfljNorgyRvLNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.StringExtensions.html",
+          "hash": "Shd0BektULUXsXfWDqZjgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.StringWriterUtf8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.StringWriterUtf8.html",
+          "hash": "htg4cGT/bz+m+tQGhNqtZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.html",
+          "hash": "2sUpFZh3d6fhT2Jxamg7Gg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "u07CmeGj0OztJ4d69klrDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "jXuoeFgsnssbr5Valrxdnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "S+O6OcaliYExlLLGPcS3og=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "p+pG88pceKMtZLa1Q//G5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 15,
+          "skipped_file_count": 15
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
