@@ -43,7 +43,7 @@ jobs:
           command: build
           arguments: --no-restore -c release -p:Version=$(AssemblyVersion) -p:"InformationalVersion=$(InformationalVersion)"
           projects: |
-            src/**/MilestoneTG.sln
+            src/**/*.csproj
 
       - task: DotNetCoreCLI@2
         displayName: Test
@@ -76,7 +76,7 @@ jobs:
           custom: pack
           arguments: -c release --no-build -p:PackageVersion=$(PrereleaseVersionNumber) -o $(Build.ArtifactStagingDirectory)/unstable
           projects: |
-            src/**/MilestoneTG.csproj
+            src/**/*.csproj
 
       - task: DotNetCoreCLI@2
         displayName: Package stable for Nuget
@@ -85,7 +85,7 @@ jobs:
           custom: pack
           arguments: -c release --no-build -p:PackageVersion=$(ReleaseVersionNumber) -o $(Build.ArtifactStagingDirectory)/stable
           projects: |
-            src/**/MilestoneTG.csproj
+            src/**/*.csproj
 
       - task: PublishBuildArtifacts@1
         displayName: Publish Build Artifact
