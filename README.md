@@ -4,7 +4,7 @@
 
 ## What's New
 
-A new Currency datatype for modeling currencies in a business domain.
+A new `Currency` datatype for modeling currencies in a business domain.
 
 For a list of all changes/updates in this release, view the [change log](https://github.com/milestonetg/milestone-commons/blob/master/CHANGELOG.md).
 
