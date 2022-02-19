@@ -2,8 +2,11 @@
 
 [![Build Status](https://milestonetg.visualstudio.com/Milestone/_apis/build/status/milestonetg.milestone-library?branchName=master)](https://milestonetg.visualstudio.com/Milestone/_build/latest?definitionId=40&branchName=master)
 
-## Change Log
-View the change log [on GitHub](https://github.com/milestonetg/milestone-commons/blob/master/CHANGELOG.md).
+## What's New
+
+A new Currency datatype for modeling currencies in a business domain.
+
+For a list of all changes/updates in this release, view the [change log](https://github.com/milestonetg/milestone-commons/blob/master/CHANGELOG.md).
 
 ## Mocking DateTime in Unit Tests
 
