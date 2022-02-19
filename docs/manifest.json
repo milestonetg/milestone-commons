@@ -9,10 +9,34 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.ByteArrayExtensions.html",
-          "hash": "/mXEoAwPmC2pDx2O4RCYpA=="
+          "hash": "03DW9hqO/g+3muTf8zgeI7mJrYV+6xtvye9ncuutT9A="
         }
       },
       "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.Currency.html",
+          "hash": "h1deKQurY7a7rQVXu4fsJ5bL5w+07KXBHibvjtAfh5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MilestoneTG.CurrencyCompareOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MilestoneTG.CurrencyCompareOption.html",
+          "hash": "t98X1Zxo0+8SxmcoFwG12dCUduR80KF66kx6pgHQdHo="
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Data.DataUtil.html",
-          "hash": "N2NEwXZIJ6zmkPrrd53hww=="
+          "hash": "Nz6H1cNzkzZtLadbdRx+coX1Db+J7c775wxcM7pVoCY="
         }
       },
       "is_incremental": true,
@@ -33,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Data.IDataReaderExtensions.html",
-          "hash": "NJS1ApTF5Rr5Qlfsf0GZBA=="
+          "hash": "lP2yq8O1CLcb9y1oI9qflI9AIid8IF8MPvdX88cgE14="
         }
       },
       "is_incremental": true,
@@ -45,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Data.html",
-          "hash": "zvo4gdu0wkYhW4A+oXdCEQ=="
+          "hash": "EpK9W7Vq4UlBLPcQeTg5RLXdyDIMiG8Xv4nEDWqC2z8="
         }
       },
       "is_incremental": true,
@@ -57,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.DateAndTimeSpanExtentions.html",
-          "hash": "aFo+2MdWi6kF8y33M5GCqg=="
+          "hash": "67I344n7/zrLI6TpzoouC63FSmo4h+PmQVh7wbsOYB4="
         }
       },
       "is_incremental": true,
@@ -69,22 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.DefaultCurrentDateTime.html",
-          "hash": "RU0KLijYrwdRdFQ0pXRZsQ=="
+          "hash": "nSua5Pso8J35GrCnCGoEN/UP86PY8cC/6Vl+P+Nun4E="
         }
       },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MilestoneTG.EncodingType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MilestoneTG.EncodingType.html",
-          "hash": "yTErK6e1fOCTKD0iQPfGfw=="
-        }
-      },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.ICurrentDateTime.html",
-          "hash": "G/9xcxzZWegnQyPeXIG1Jw=="
+          "hash": "/eo9Q578N0R9/yUlZK+uDsCUnJVDdFiJ7FY/7VGftLQ="
         }
       },
       "is_incremental": true,
@@ -105,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Linq.IEnumerableExtensions.html",
-          "hash": "n22+trsQ/adWIVQzjQHaLQ=="
+          "hash": "htpqO7cphbmU1ZAq21+rCC2RO8q5EquA5RP5RPWjWUY="
         }
       },
       "is_incremental": true,
@@ -117,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Linq.html",
-          "hash": "yB+wiDyxl86OpK70snQ6HQ=="
+          "hash": "KibcrvedBn7x4kb7ErZDNiJcf6Y/pJ7l2VRm1+cUeEI="
         }
       },
       "is_incremental": true,
@@ -129,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Reflection.ObjectExtensionMethods.html",
-          "hash": "gc3kOw5YXpUHpb8yMYiLgw=="
+          "hash": "GLUHSiNkLdShD6YmyYMm41/1UVKkqOhJNoBuoCt9dKI="
         }
       },
       "is_incremental": true,
@@ -141,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.Reflection.html",
-          "hash": "EMyNS/o1XfljNorgyRvLNg=="
+          "hash": "SWWC6j5R8TM9yDiXybe1/YB5Ea8HwG5v/36JFcvX2xc="
         }
       },
       "is_incremental": true,
@@ -153,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.StringExtensions.html",
-          "hash": "Shd0BektULUXsXfWDqZjgg=="
+          "hash": "NZpvsbTGPJeg+qV9sPHKJ1pp389od4UvXj/8bNCrppw="
         }
       },
       "is_incremental": true,
@@ -165,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.StringWriterUtf8.html",
-          "hash": "htg4cGT/bz+m+tQGhNqtZQ=="
+          "hash": "g5+oDMtD2e4Uqm5z5EV37/j9qe9HsY+8XkILnqGUrcM="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/MilestoneTG.html",
-          "hash": "2sUpFZh3d6fhT2Jxamg7Gg=="
+          "hash": "Dmn3/GJWXDBMlpkppomCvr/Jj9yVYJxr/lmgFitbIHo="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "u07CmeGj0OztJ4d69klrDQ=="
+          "hash": "6x/3epmwBlAVEYzSow9DIHGJXmNSf0KhXPwCLHVvX7M="
         }
       },
       "is_incremental": true,
@@ -201,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "jXuoeFgsnssbr5Valrxdnw=="
+          "hash": "igv/ttTAL1vwF/k1SjmLdfZszSW4PA0XClc+3haArHA="
         }
       },
       "is_incremental": false,
@@ -213,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "S+O6OcaliYExlLLGPcS3og=="
+          "hash": "w2rVa4U4z2w46mdXJBkdqHR+ExQkc0E5lUyoZnSPkmc="
         }
       },
       "is_incremental": true,
@@ -225,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "gB8AESyvNru97tzIZofEEg=="
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
         }
       },
       "is_incremental": false,
@@ -259,10 +271,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "p+pG88pceKMtZLa1Q//G5g=="
+          "hash": "gingEDN4VIaNVOSLH862Ba425ZcVTdTLKdwmf32wk3c="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -271,7 +283,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
         }
       },
       "is_incremental": false,
@@ -291,13 +303,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 2
+          "skipped_file_count": 3
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 15,
-          "skipped_file_count": 15
+          "total_file_count": 16,
+          "skipped_file_count": 13
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

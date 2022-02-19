@@ -22,15 +22,6 @@ references:
   fullName.vb: MilestoneTG.ByteArrayExtensions.GetString(System.Byte())
   nameWithType: ByteArrayExtensions.GetString(Byte[])
   nameWithType.vb: ByteArrayExtensions.GetString(Byte())
-- uid: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],MilestoneTG.EncodingType)
-  name: GetString(Byte[], EncodingType)
-  href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_System_Byte___MilestoneTG_EncodingType_
-  commentId: M:MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],MilestoneTG.EncodingType)
-  name.vb: GetString(Byte(), EncodingType)
-  fullName: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[], MilestoneTG.EncodingType)
-  fullName.vb: MilestoneTG.ByteArrayExtensions.GetString(System.Byte(), MilestoneTG.EncodingType)
-  nameWithType: ByteArrayExtensions.GetString(Byte[], EncodingType)
-  nameWithType.vb: ByteArrayExtensions.GetString(Byte(), EncodingType)
 - uid: MilestoneTG.ByteArrayExtensions.GetString(System.Byte[],System.Text.Encoding)
   name: GetString(Byte[], Encoding)
   href: api/MilestoneTG.ByteArrayExtensions.html#MilestoneTG_ByteArrayExtensions_GetString_System_Byte___System_Text_Encoding_
@@ -63,6 +54,274 @@ references:
   isSpec: "True"
   fullName: MilestoneTG.ByteArrayExtensions.GetUtf8String
   nameWithType: ByteArrayExtensions.GetUtf8String
+- uid: MilestoneTG.Currency
+  name: Currency
+  href: api/MilestoneTG.Currency.html
+  commentId: T:MilestoneTG.Currency
+  fullName: MilestoneTG.Currency
+  nameWithType: Currency
+- uid: MilestoneTG.Currency.#ctor(System.Decimal)
+  name: Currency(Decimal)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency__ctor_System_Decimal_
+  commentId: M:MilestoneTG.Currency.#ctor(System.Decimal)
+  fullName: MilestoneTG.Currency.Currency(System.Decimal)
+  nameWithType: Currency.Currency(Decimal)
+- uid: MilestoneTG.Currency.#ctor(System.String,System.Decimal)
+  name: Currency(String, Decimal)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency__ctor_System_String_System_Decimal_
+  commentId: M:MilestoneTG.Currency.#ctor(System.String,System.Decimal)
+  fullName: MilestoneTG.Currency.Currency(System.String, System.Decimal)
+  nameWithType: Currency.Currency(String, Decimal)
+- uid: MilestoneTG.Currency.#ctor*
+  name: Currency
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency__ctor_
+  commentId: Overload:MilestoneTG.Currency.#ctor
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Currency
+  nameWithType: Currency.Currency
+- uid: MilestoneTG.Currency.CompareOption
+  name: CompareOption
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_CompareOption
+  commentId: P:MilestoneTG.Currency.CompareOption
+  fullName: MilestoneTG.Currency.CompareOption
+  nameWithType: Currency.CompareOption
+- uid: MilestoneTG.Currency.CompareOption*
+  name: CompareOption
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_CompareOption_
+  commentId: Overload:MilestoneTG.Currency.CompareOption
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.CompareOption
+  nameWithType: Currency.CompareOption
+- uid: MilestoneTG.Currency.CompareTo(MilestoneTG.Currency)
+  name: CompareTo(Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_CompareTo_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.CompareTo(MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.CompareTo(MilestoneTG.Currency)
+  nameWithType: Currency.CompareTo(Currency)
+- uid: MilestoneTG.Currency.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_CompareTo_System_Object_
+  commentId: M:MilestoneTG.Currency.CompareTo(System.Object)
+  fullName: MilestoneTG.Currency.CompareTo(System.Object)
+  nameWithType: Currency.CompareTo(Object)
+- uid: MilestoneTG.Currency.CompareTo*
+  name: CompareTo
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_CompareTo_
+  commentId: Overload:MilestoneTG.Currency.CompareTo
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.CompareTo
+  nameWithType: Currency.CompareTo
+- uid: MilestoneTG.Currency.ISOCurrencySymbol
+  name: ISOCurrencySymbol
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ISOCurrencySymbol
+  commentId: P:MilestoneTG.Currency.ISOCurrencySymbol
+  fullName: MilestoneTG.Currency.ISOCurrencySymbol
+  nameWithType: Currency.ISOCurrencySymbol
+- uid: MilestoneTG.Currency.ISOCurrencySymbol*
+  name: ISOCurrencySymbol
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ISOCurrencySymbol_
+  commentId: Overload:MilestoneTG.Currency.ISOCurrencySymbol
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.ISOCurrencySymbol
+  nameWithType: Currency.ISOCurrencySymbol
+- uid: MilestoneTG.Currency.op_Addition(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: Addition(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Addition_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_Addition(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.Addition(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.Addition(Currency, Currency)
+- uid: MilestoneTG.Currency.op_Addition*
+  name: Addition
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Addition_
+  commentId: Overload:MilestoneTG.Currency.op_Addition
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Addition
+  nameWithType: Currency.Addition
+- uid: MilestoneTG.Currency.op_Division(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: Division(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Division_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_Division(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.Division(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.Division(Currency, Currency)
+- uid: MilestoneTG.Currency.op_Division*
+  name: Division
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Division_
+  commentId: Overload:MilestoneTG.Currency.op_Division
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Division
+  nameWithType: Currency.Division
+- uid: MilestoneTG.Currency.op_GreaterThan(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: GreaterThan(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_GreaterThan_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_GreaterThan(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.GreaterThan(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.GreaterThan(Currency, Currency)
+- uid: MilestoneTG.Currency.op_GreaterThan*
+  name: GreaterThan
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_GreaterThan_
+  commentId: Overload:MilestoneTG.Currency.op_GreaterThan
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.GreaterThan
+  nameWithType: Currency.GreaterThan
+- uid: MilestoneTG.Currency.op_GreaterThanOrEqual(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: GreaterThanOrEqual(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_GreaterThanOrEqual_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_GreaterThanOrEqual(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.GreaterThanOrEqual(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.GreaterThanOrEqual(Currency, Currency)
+- uid: MilestoneTG.Currency.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_GreaterThanOrEqual_
+  commentId: Overload:MilestoneTG.Currency.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.GreaterThanOrEqual
+  nameWithType: Currency.GreaterThanOrEqual
+- uid: MilestoneTG.Currency.op_Implicit(MilestoneTG.Currency)~System.Decimal
+  name: Implicit(Currency to Decimal)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Implicit_MilestoneTG_Currency__System_Decimal
+  commentId: M:MilestoneTG.Currency.op_Implicit(MilestoneTG.Currency)~System.Decimal
+  name.vb: Widening(Currency to Decimal)
+  fullName: MilestoneTG.Currency.Implicit(MilestoneTG.Currency to System.Decimal)
+  fullName.vb: MilestoneTG.Currency.Widening(MilestoneTG.Currency to System.Decimal)
+  nameWithType: Currency.Implicit(Currency to Decimal)
+  nameWithType.vb: Currency.Widening(Currency to Decimal)
+- uid: MilestoneTG.Currency.op_Implicit*
+  name: Implicit
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Implicit_
+  commentId: Overload:MilestoneTG.Currency.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: MilestoneTG.Currency.Implicit
+  fullName.vb: MilestoneTG.Currency.Widening
+  nameWithType: Currency.Implicit
+  nameWithType.vb: Currency.Widening
+- uid: MilestoneTG.Currency.op_LessThan(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: LessThan(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_LessThan_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_LessThan(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.LessThan(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.LessThan(Currency, Currency)
+- uid: MilestoneTG.Currency.op_LessThan*
+  name: LessThan
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_LessThan_
+  commentId: Overload:MilestoneTG.Currency.op_LessThan
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.LessThan
+  nameWithType: Currency.LessThan
+- uid: MilestoneTG.Currency.op_LessThanOrEqual(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: LessThanOrEqual(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_LessThanOrEqual_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_LessThanOrEqual(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.LessThanOrEqual(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.LessThanOrEqual(Currency, Currency)
+- uid: MilestoneTG.Currency.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_LessThanOrEqual_
+  commentId: Overload:MilestoneTG.Currency.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.LessThanOrEqual
+  nameWithType: Currency.LessThanOrEqual
+- uid: MilestoneTG.Currency.op_Modulus(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: Modulus(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Modulus_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_Modulus(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.Modulus(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.Modulus(Currency, Currency)
+- uid: MilestoneTG.Currency.op_Modulus*
+  name: Modulus
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Modulus_
+  commentId: Overload:MilestoneTG.Currency.op_Modulus
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Modulus
+  nameWithType: Currency.Modulus
+- uid: MilestoneTG.Currency.op_Multiply(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: Multiply(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Multiply_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_Multiply(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.Multiply(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.Multiply(Currency, Currency)
+- uid: MilestoneTG.Currency.op_Multiply*
+  name: Multiply
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Multiply_
+  commentId: Overload:MilestoneTG.Currency.op_Multiply
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Multiply
+  nameWithType: Currency.Multiply
+- uid: MilestoneTG.Currency.op_Subtraction(MilestoneTG.Currency,MilestoneTG.Currency)
+  name: Subtraction(Currency, Currency)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Subtraction_MilestoneTG_Currency_MilestoneTG_Currency_
+  commentId: M:MilestoneTG.Currency.op_Subtraction(MilestoneTG.Currency,MilestoneTG.Currency)
+  fullName: MilestoneTG.Currency.Subtraction(MilestoneTG.Currency, MilestoneTG.Currency)
+  nameWithType: Currency.Subtraction(Currency, Currency)
+- uid: MilestoneTG.Currency.op_Subtraction*
+  name: Subtraction
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_op_Subtraction_
+  commentId: Overload:MilestoneTG.Currency.op_Subtraction
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Subtraction
+  nameWithType: Currency.Subtraction
+- uid: MilestoneTG.Currency.ToString
+  name: ToString()
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ToString
+  commentId: M:MilestoneTG.Currency.ToString
+  fullName: MilestoneTG.Currency.ToString()
+  nameWithType: Currency.ToString()
+- uid: MilestoneTG.Currency.ToString(System.IFormatProvider)
+  name: ToString(IFormatProvider)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ToString_System_IFormatProvider_
+  commentId: M:MilestoneTG.Currency.ToString(System.IFormatProvider)
+  fullName: MilestoneTG.Currency.ToString(System.IFormatProvider)
+  nameWithType: Currency.ToString(IFormatProvider)
+- uid: MilestoneTG.Currency.ToString(System.String)
+  name: ToString(String)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ToString_System_String_
+  commentId: M:MilestoneTG.Currency.ToString(System.String)
+  fullName: MilestoneTG.Currency.ToString(System.String)
+  nameWithType: Currency.ToString(String)
+- uid: MilestoneTG.Currency.ToString(System.String,System.IFormatProvider)
+  name: ToString(String, IFormatProvider)
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ToString_System_String_System_IFormatProvider_
+  commentId: M:MilestoneTG.Currency.ToString(System.String,System.IFormatProvider)
+  fullName: MilestoneTG.Currency.ToString(System.String, System.IFormatProvider)
+  nameWithType: Currency.ToString(String, IFormatProvider)
+- uid: MilestoneTG.Currency.ToString*
+  name: ToString
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_ToString_
+  commentId: Overload:MilestoneTG.Currency.ToString
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.ToString
+  nameWithType: Currency.ToString
+- uid: MilestoneTG.Currency.Value
+  name: Value
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_Value
+  commentId: P:MilestoneTG.Currency.Value
+  fullName: MilestoneTG.Currency.Value
+  nameWithType: Currency.Value
+- uid: MilestoneTG.Currency.Value*
+  name: Value
+  href: api/MilestoneTG.Currency.html#MilestoneTG_Currency_Value_
+  commentId: Overload:MilestoneTG.Currency.Value
+  isSpec: "True"
+  fullName: MilestoneTG.Currency.Value
+  nameWithType: Currency.Value
+- uid: MilestoneTG.CurrencyCompareOption
+  name: CurrencyCompareOption
+  href: api/MilestoneTG.CurrencyCompareOption.html
+  commentId: T:MilestoneTG.CurrencyCompareOption
+  fullName: MilestoneTG.CurrencyCompareOption
+  nameWithType: CurrencyCompareOption
+- uid: MilestoneTG.CurrencyCompareOption.CodeAndValue
+  name: CodeAndValue
+  href: api/MilestoneTG.CurrencyCompareOption.html#MilestoneTG_CurrencyCompareOption_CodeAndValue
+  commentId: F:MilestoneTG.CurrencyCompareOption.CodeAndValue
+  fullName: MilestoneTG.CurrencyCompareOption.CodeAndValue
+  nameWithType: CurrencyCompareOption.CodeAndValue
+- uid: MilestoneTG.CurrencyCompareOption.ValueOnly
+  name: ValueOnly
+  href: api/MilestoneTG.CurrencyCompareOption.html#MilestoneTG_CurrencyCompareOption_ValueOnly
+  commentId: F:MilestoneTG.CurrencyCompareOption.ValueOnly
+  fullName: MilestoneTG.CurrencyCompareOption.ValueOnly
+  nameWithType: CurrencyCompareOption.ValueOnly
 - uid: MilestoneTG.Data
   name: MilestoneTG.Data
   href: api/MilestoneTG.Data.html
@@ -478,42 +737,6 @@ references:
   isSpec: "True"
   fullName: MilestoneTG.DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
   nameWithType: DefaultCurrentDateTime.GetCurrentUtcDateTimeOffset
-- uid: MilestoneTG.EncodingType
-  name: EncodingType
-  href: api/MilestoneTG.EncodingType.html
-  commentId: T:MilestoneTG.EncodingType
-  fullName: MilestoneTG.EncodingType
-  nameWithType: EncodingType
-- uid: MilestoneTG.EncodingType.ASCII
-  name: ASCII
-  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_ASCII
-  commentId: F:MilestoneTG.EncodingType.ASCII
-  fullName: MilestoneTG.EncodingType.ASCII
-  nameWithType: EncodingType.ASCII
-- uid: MilestoneTG.EncodingType.Unicode
-  name: Unicode
-  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_Unicode
-  commentId: F:MilestoneTG.EncodingType.Unicode
-  fullName: MilestoneTG.EncodingType.Unicode
-  nameWithType: EncodingType.Unicode
-- uid: MilestoneTG.EncodingType.UTF32
-  name: UTF32
-  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF32
-  commentId: F:MilestoneTG.EncodingType.UTF32
-  fullName: MilestoneTG.EncodingType.UTF32
-  nameWithType: EncodingType.UTF32
-- uid: MilestoneTG.EncodingType.UTF7
-  name: UTF7
-  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF7
-  commentId: F:MilestoneTG.EncodingType.UTF7
-  fullName: MilestoneTG.EncodingType.UTF7
-  nameWithType: EncodingType.UTF7
-- uid: MilestoneTG.EncodingType.UTF8
-  name: UTF8
-  href: api/MilestoneTG.EncodingType.html#MilestoneTG_EncodingType_UTF8
-  commentId: F:MilestoneTG.EncodingType.UTF8
-  fullName: MilestoneTG.EncodingType.UTF8
-  nameWithType: EncodingType.UTF8
 - uid: MilestoneTG.ICurrentDateTime
   name: ICurrentDateTime
   href: api/MilestoneTG.ICurrentDateTime.html
@@ -847,12 +1070,6 @@ references:
   commentId: M:MilestoneTG.StringExtensions.GetBytes(System.String)
   fullName: MilestoneTG.StringExtensions.GetBytes(System.String)
   nameWithType: StringExtensions.GetBytes(String)
-- uid: MilestoneTG.StringExtensions.GetBytes(System.String,MilestoneTG.EncodingType)
-  name: GetBytes(String, EncodingType)
-  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetBytes_System_String_MilestoneTG_EncodingType_
-  commentId: M:MilestoneTG.StringExtensions.GetBytes(System.String,MilestoneTG.EncodingType)
-  fullName: MilestoneTG.StringExtensions.GetBytes(System.String, MilestoneTG.EncodingType)
-  nameWithType: StringExtensions.GetBytes(String, EncodingType)
 - uid: MilestoneTG.StringExtensions.GetBytes*
   name: GetBytes
   href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetBytes_
@@ -860,19 +1077,6 @@ references:
   isSpec: "True"
   fullName: MilestoneTG.StringExtensions.GetBytes
   nameWithType: StringExtensions.GetBytes
-- uid: MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
-  name: GetEncoding(EncodingType)
-  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetEncoding_MilestoneTG_EncodingType_
-  commentId: M:MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
-  fullName: MilestoneTG.StringExtensions.GetEncoding(MilestoneTG.EncodingType)
-  nameWithType: StringExtensions.GetEncoding(EncodingType)
-- uid: MilestoneTG.StringExtensions.GetEncoding*
-  name: GetEncoding
-  href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetEncoding_
-  commentId: Overload:MilestoneTG.StringExtensions.GetEncoding
-  isSpec: "True"
-  fullName: MilestoneTG.StringExtensions.GetEncoding
-  nameWithType: StringExtensions.GetEncoding
 - uid: MilestoneTG.StringExtensions.GetUtf8Bytes(System.String)
   name: GetUtf8Bytes(String)
   href: api/MilestoneTG.StringExtensions.html#MilestoneTG_StringExtensions_GetUtf8Bytes_System_String_
