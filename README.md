@@ -2,6 +2,9 @@
 
 [![Build Status](https://milestonetg.visualstudio.com/Milestone/_apis/build/status/milestonetg.milestone-library?branchName=master)](https://milestonetg.visualstudio.com/Milestone/_build/latest?definitionId=40&branchName=master)
 
+## Change Log
+View the change log [on GitHub](https://github.com/milestonetg/milestone-commons/blob/master/CHANGELOG.md).
+
 ## Mocking DateTime in Unit Tests
 
 One of the interfaces in commons is `ICurrentDateTime`. It's default implementation is `DefaultCurrentDateTime`.
@@ -28,13 +31,13 @@ public class MyService
 ## Platform Targets
 
 - NetStandard2.0
-- Net45
+- Net452
 
 ## Building and Testing
 
 Building from source and running unit tests requires a Windows machine with:
 
-- .Net Core 3.1 SDK
+- .Net 6.0 SDK
 - .Net Framework 4.5.2 Developer Pack
 
 ## Issues

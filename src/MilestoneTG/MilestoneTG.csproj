@@ -1,15 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
     <Company>Milestone Technology Group, LLC</Company>
     <Product>Milestone Commons Libray</Product>
+    <Description>Provides a set of base set of utilities and data types.</Description>
+    <PackageTags>currency money conversion utility datetime</PackageTags>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageProjectUrl>https://github.com/milestonetg/milestone-commons</PackageProjectUrl>
     <RepositoryUrl>https://github.com/milestonetg/milestone-commons</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\LICENSE" Pack="true" PackagePath="\" />
+    <None Include="..\..\LICENSE"   Pack="true" PackagePath="\" />
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilestoneTG", "MilestoneTG\MilestoneTG.csproj", "{755047ED-8E1D-4D99-8142-4214B90879B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilestoneTG", "src\MilestoneTG\MilestoneTG.csproj", "{755047ED-8E1D-4D99-8142-4214B90879B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilestoneTG.Tests", "..\test\MilestoneTG.Tests\MilestoneTG.Tests.csproj", "{3527E01C-0006-4C6D-8676-640D5C5F0C5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilestoneTG.Tests", "test\MilestoneTG.Tests\MilestoneTG.Tests.csproj", "{3527E01C-0006-4C6D-8676-640D5C5F0C5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C68AA916-04EE-4D12-9F6D-2B45194867DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FE475DAA-986F-4424-A98A-A2F1F814DB8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,5 +48,9 @@ Global
 		{3527E01C-0006-4C6D-8676-640D5C5F0C5F}.Release|x64.Build.0 = Release|Any CPU
 		{3527E01C-0006-4C6D-8676-640D5C5F0C5F}.Release|x86.ActiveCfg = Release|Any CPU
 		{3527E01C-0006-4C6D-8676-640D5C5F0C5F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{755047ED-8E1D-4D99-8142-4214B90879B9} = {C68AA916-04EE-4D12-9F6D-2B45194867DB}
+		{3527E01C-0006-4C6D-8676-640D5C5F0C5F} = {FE475DAA-986F-4424-A98A-A2F1F814DB8A}
 	EndGlobalSection
 EndGlobal

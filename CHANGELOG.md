@@ -1,5 +1,16 @@
 # Change Log
 
+## [4.0.0]
+
+### Added
+
+- `Currency` struct for representing money in a domain.
+
+### Breaking Changes
+
+- Removed types and methods marked obsolete in 3.0.
+- Changed the .Net Framework minimum target to net452 to stay inline with Microsoft's support cycle.
+
 ## [3.0.0]
 
 ### Added
