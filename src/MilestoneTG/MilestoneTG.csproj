@@ -8,6 +8,8 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageProjectUrl>https://github.com/milestonetg/milestone-commons</PackageProjectUrl>
     <RepositoryUrl>https://github.com/milestonetg/milestone-commons</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
